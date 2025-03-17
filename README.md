@@ -1,0 +1,1 @@
+# Check-if-a-string-can-be-obtained-by-rotating-another-string-2-places
